@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user_name": "Nguyễn Văn A",
+      "gender": 0,
+      "address": "Hà Nội ",
+      "dateOfBirth": "20/01/2002",
+      "email": "a@gmail.com",
+      "password": "123456"
+    },
+    {
+      "email": "nva@gmail.com",
+      "password": "$2a$10$DSiWfzJNrHaUF3G9rRUV8.pxSsMhNLrh5pG9a6iP1toaeEZvXMb1q",
+      "user_name": "Nguyễn Văn A",
+      "gender": 0,
+      "address": "Cầu Giấy,Hà Nội ",
+      "dateOfBirth": "20/01/2002",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "product_name": "Bưởi ",
+      "price": 180000,
+      "from": "Hà Nội",
+      "id": 4
+    },
+    {
+      "product_name": "Quýt",
+      "price": 25000,
+      "from": "Việt Nam",
+      "id": 5
+    },
+    {
+      "product_name": "Táo ",
+      "price": 80000,
+      "from": "China",
+      "id": 6
+    }
+  ]
+}

@@ -97,6 +97,7 @@ export default function FormAdd({ handleCloseForm, loadData }) {
             >
               Hủy
             </button>
+            <div className="d-flex"></div>
           </div>
         </form>
       </div>
